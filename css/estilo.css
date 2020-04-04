@@ -98,17 +98,17 @@ nav ul li a.selecionado{
 section#intro{
 	height: 235px;
 	width: 940px;
-	background:url('../img/intro_bg.png') right top no-repeat #DDEEEE;
+	background:url('../img/git.png') right top no-repeat #DDEEEE;
 	margin-top: 60px;
 	padding-left: 10px;
 	
-}
+} 
 
 section#intro hgroup h1{
 	font-size:24px;
 	text-align: left;
 	line-height: 40px;
-	color: #999;
+	color: #dc0c29;
 }
 
 section#intro hgroup h2{
