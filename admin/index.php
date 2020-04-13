@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="pt-BR">
 	<head>
-		<meta charset="utf-8">
+        <meta charset="utf-8">
+      
         <link href="css/estilo.css" rel="stylesheet" type="text/css" media="screen">
 		<title>Painel Administrativo</title>
 	</head>
@@ -35,7 +36,7 @@
         </aside>
         <footer class="rodape">
 
-            	<h1> Todos os direitos preservados &copy;2014</h1>
+            	<h1> Todos os direitos preservados &copy;2020</h1>
                
         </footer>     
 	</body>

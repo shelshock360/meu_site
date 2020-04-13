@@ -19,7 +19,7 @@
                     <li><h3>Sistema e Configurações</h3>
                         <ul>
                             <li><a href="">Usuários</a></li>
-                            <li><a href="admin/inserir_sites.php">Sites Relacionados</a></li>
+                            <li><a href="admin/sites_relacionados.php">Sites Relacionados</a></li>
                             <li><a href="">Apresentação</a></li>
                             <li><a href="">Dados da Empresa</a></li>
                         </ul>

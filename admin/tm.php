@@ -2,6 +2,7 @@
 <html lang="pt-BR">
 	<head>
 		<meta charset="utf-8">
+		<link rel="stylesheet" href="css/bulma.min.css" media="screen" type="text/css"  />
 		<link href="css/estilo.css" rel="stylesheet" type="text/css" media="screen">
 		<title>Painel Administrativo</title>
 	</head>

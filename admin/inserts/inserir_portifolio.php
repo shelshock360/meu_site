@@ -10,8 +10,6 @@ $conteudo= $_REQUEST["conteudo"];
 $data=$_REQUEST["data"];
 
 
-
-
 $_UP['pasta'] = '../../img/img_portifolio/';
  
  $_UP['tamanho'] = 1024*1024*2; //2mb
@@ -43,6 +41,6 @@ $_UP['pasta'] = '../../img/img_portifolio/';
 
 inserir(array("titulo","url","resumo","conteudo","data","img_destaque"),array($titulo,$url,$resumo,$conteudo,$data,$nome_final), "portifolio");
 
-header("location:../inserir_portifolio.php")
+header("location:../inserir_portifolio.php?info=ok");
 
 ?>

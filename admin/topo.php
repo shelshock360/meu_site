@@ -1,6 +1,6 @@
 <header class="topo"> 
             <figure class="logo">
-                <img src="../img/intro_bg.png" alt="PontoCOM" />
+                <img src="../img/git.png" alt="PontoCOM" />
             </figure>
             <hgroup>
                 <h1>Painel Administrativo</h1> 

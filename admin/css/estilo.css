@@ -290,6 +290,7 @@ div.coluna{
 	padding-top: 5px;
 	width: 132.5px;
 	padding-left: 10px;
+	overflow: hidden;
 }
 
 div.linha:hover a{
